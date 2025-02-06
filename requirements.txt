@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy>=1.25.0
+seaborn
+urllib3
+streamlit
+mlflow
+scikit-learn
+lightgbm
